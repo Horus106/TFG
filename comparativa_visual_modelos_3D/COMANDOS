@@ -1,0 +1,20 @@
+BASE:
+(entorno_py_3_10) root@pcjuanan:~/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/comparativa_visual_modelos_3D# python comparar_visual_carpetas.py /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/modelos_GT /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/external/color_3d_models/salida_modelos_coloreados/todas/Resnet base_jaccard.csv
+
+SEP_X:
+(entorno_py_3_10) root@pcjuanan:~/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/comparativa_visual_modelos_3D# python comparar_visual_carpetas.py /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/modelos_GT /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/external/color_3d_models/salida_modelos_coloreados/separate/X/Resnet sep_X.csv
+
+SEP_Y:
+(entorno_py_3_10) root@pcjuanan:~/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/comparativa_visual_modelos_3D# python comparar_visual_carpetas.py /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/modelos_GT /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/external/color_3d_models/salida_modelos_coloreados/separate/Y/Resnet sep_Y.csv
+
+SEP_Z:
+(entorno_py_3_10) root@pcjuanan:~/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/comparativa_visual_modelos_3D# python comparar_visual_carpetas.py /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/modelos_GT /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/external/color_3d_models/salida_modelos_coloreados/separate/Z/Resnet sep_Z.csv
+
+ENSEMBLE_XY:
+(entorno_py_3_10) root@pcjuanan:~/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/comparativa_visual_modelos_3D# python comparar_visual_carpetas.py /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/modelos_GT /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/external/color_3d_models/salida_modelos_coloreados/ensembles/XY/Resnet ensemble_XY.csv
+
+ENSEMBLE_XZ:
+(entorno_py_3_10) root@pcjuanan:~/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/comparativa_visual_modelos_3D# python comparar_visual_carpetas.py /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/modelos_GT /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/external/color_3d_models/salida_modelos_coloreados/ensembles/XZ/Resnet ensemble_XZ.csv
+
+ENSEMBLE_YZ:
+(entorno_py_3_10) root@pcjuanan:~/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/comparativa_visual_modelos_3D# python comparar_visual_carpetas.py /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/modelos_GT /root/Age-At-Death-Estimation-from-3D-Models-of-the-Pubic-Symphysis-A-Deep-Multi-View-Learning-Approach/external/color_3d_models/salida_modelos_coloreados/ensembles/YZ/Resnet ensemble_YZ.csv

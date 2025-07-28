@@ -39,3 +39,6 @@ separate_planes/inferencia_img/
 separate_planes_ensembles/inferencia_img/
 training/entrenado_pond
 training/inferencia_img_pond
+comparativa_visual_modelos_3D/csvs_thresholds
+comparativa_visual_modelos_3D/th*
+comparativa_visual_modelos_3D/makefile
